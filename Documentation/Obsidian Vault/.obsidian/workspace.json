@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "dc05a0792e57d195",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e2a6c34964a5ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "469ad002447d0d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tests Jest/Como implementar os testes no jest js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a16e470959f9197a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2589a0c564c76f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceee89f3ad1ed7bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01e1cd63788ce329",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f56fb9b07554b04",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "007199b332a23aca",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b9bb5eeea43d755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc38cae87d4f5dac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tests Jest/Como implementar os testes no jest js.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "388b7790c9b61fad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tests Jest/Como implementar os testes no jest js.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a416943283fdae9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b1df82949c7e01a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tests Jest/Como implementar os testes no jest js.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ceee89f3ad1ed7bf",
+  "lastOpenFiles": [
+    "Roit/Padrões de arquitetura.md",
+    "tests Jest/Como implementar os testes no jest js.md",
+    "Immersion/Planejamento tasks.md",
+    "Fluxos/Fluxo get people.canvas",
+    "Roit/BPMN.md",
+    "Roit/Immersion.md",
+    "Roit/Apache Kafka.md",
+    "Roit/Ports ans Adapters.md",
+    "Roit/OKR's.md",
+    "Roit/DTO.md"
+  ]
+}
